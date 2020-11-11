@@ -1,0 +1,14 @@
+{
+  "name": "videolevels-lambda-upload",
+  "version": "1.0.0",
+  "description": "VideoLevels Technical test lambda upload func",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Firas MEZGHANI (FouMez)",
+  "license": "ISC",
+  "dependencies": {
+    "parse-multipart": "^1.0.4"
+  }
+}
